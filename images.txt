@@ -1,5 +1,8 @@
 # 龙虾中文版本：https://github.com/1186258278/OpenClawChineseTranslation
-1186258278/openclaw-zh:latest
+# 1186258278/openclaw-zh:latest
 
 # AI私有化智能知识库
-mintplexlabs/anythingllm
+# mintplexlabs/anythingllm
+
+# 私有部署平台
+dokploy/dokploy:latest

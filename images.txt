@@ -5,4 +5,13 @@
 # mintplexlabs/anythingllm
 
 # 私有部署平台
-dokploy/dokploy:latest
+# dokploy/dokploy:latest
+
+# 大象数据库
+postgres:latest
+
+# Redis数据库
+redis:latest
+
+# Mysql
+mysql:5.7

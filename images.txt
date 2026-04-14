@@ -8,10 +8,11 @@
 # dokploy/dokploy:latest
 
 # 大象数据库
-postgres:latest
+# postgres:latest
+postgres:16
 
 # Redis数据库
-redis:latest
+# redis:latest
 
 # Mysql
-mysql:5.7
+# mysql:5.7

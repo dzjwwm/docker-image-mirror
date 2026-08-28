@@ -21,5 +21,4 @@
 
 # python:3.12
 
-jenkins
 gitlab/gitlab-ce

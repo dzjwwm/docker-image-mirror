@@ -7,24 +7,20 @@
 # 私有部署平台
 # dokploy/dokploy:latest
 
-# 大象数据库
 # postgres:latest
 # postgres:16
 
-# Redis数据库
 # redis:latest
 
-# Mysql
 # mysql:5.7
 
 # 可视化数据库关联工具
 # dbgate/dbgate
 
 # nginx
-nginx
 
 # python:3.12
-python:3.12
 
-# jenkins
 jenkins:latest
+
+gitlab/gitlab-ce

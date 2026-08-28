@@ -22,5 +22,4 @@
 # python:3.12
 
 jenkins:latest
-
 gitlab/gitlab-ce
